@@ -6,4 +6,4 @@ TXE-1.6.5-Src
 
 TXE 1.6.5 Source Code Readme
 
-Please look at license and for the images and the font chooser go to: https://www.dropbox.com/s/tptoe1bnhiweksw/Archive.zip just un zip to work place folder with the other files.
+Please look at license and for the images go to: https://www.dropbox.com/s/tptoe1bnhiweksw/Archive.zip and the font chooser: https://www.dropbox.com/s/ub469am7hbjytcf/jfontchooser-1.0.5.zip, to install just un-zip to work place folder with the other files.
