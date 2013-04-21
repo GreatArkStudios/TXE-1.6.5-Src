@@ -1,6 +1,6 @@
 © Great Ark Studios 2013
 @Author Eric Zhu 
-Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser 
+Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser and TXE Math powered by LogicStuffs.
 TXE-1.6.5-Src
 =============
 
