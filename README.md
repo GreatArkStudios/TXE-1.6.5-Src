@@ -1,4 +1,4 @@
-© Great Ark Studios 2013
+© <a href="http://greatarkstudios.weebly.com">Great Ark Studios</a> 2013
 
 
 @Author Eric Zhu 
