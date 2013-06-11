@@ -12,7 +12,7 @@ TXE-1.6.5-Src
 About TXE
 
 
-TXE is a free open source text editor, that is useful for daily use, a Java learning program that is free to change to your preferences. It shows good usage of Swing Java, Strings, loops, and file saving using . TXE is also good for incorporating into a word processing program. 
+TXE is a free open source text editor, that is useful for daily use, a Java learning program that is free to change to your preferences. It shows good usage of Swing Java, Strings, loops, file writers, and file reader. TXE is also good for incorporating into a word processing program. 
 
 ==========================================================================
 TXE 1.6.5 Source Code Readme
@@ -57,7 +57,7 @@ NetBeans instructions
 1.Create new workspace, preferably named: TXE 1.6.5 Forked
 
 
-2.Make a new project named TXE 
+2.Make a new project named TXE
 
 
 3.Drag all of the files that you have downloaded from GitHub and Dropbox 
