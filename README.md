@@ -4,7 +4,7 @@
 @Author Eric Zhu 
 
 
-Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser and TXE Math powered by LogicStuffs.
+Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser, icons from <a href="http://www.visualpharm.com/must_have_icon_set/">VisualPhram</a> and TXE Math powered by LogicStuffs.
 
 
 TXE-1.6.5-Src
@@ -12,7 +12,7 @@ TXE-1.6.5-Src
 About TXE
 
 
-TXE is a free open source text editor, that is useful for daily use, a Java learning program that is free to change to your preferences.
+TXE is a free open source text editor, that is useful for daily use, a Java learning program that is free to change to your preferences. It shows good usage of Swing Java, Strings, loops, and file saving using . TXE is also good for incorporating into a word processing program. 
 
 ==========================================================================
 TXE 1.6.5 Source Code Readme
