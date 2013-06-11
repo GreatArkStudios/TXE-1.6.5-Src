@@ -1,10 +1,18 @@
 © Great Ark Studios 2013
+
+
 @Author Eric Zhu 
+
+
 Special Thanks Turk4n of CodeCall.net, Mashiko SWAI of Say font chooser and TXE Math powered by LogicStuffs.
+
+
 TXE-1.6.5-Src
 =============
-TXE 
+About TXE
 
+
+TXE is a free open source text editor, that is useful for daily use, a Java learning program that is free to change to your preferences.
 
 ==========================================================================
 TXE 1.6.5 Source Code Readme
