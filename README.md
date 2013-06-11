@@ -50,8 +50,8 @@ into the project folder, from either finder or Windows explorer.
 
 
 10.Please share or report your versions of TXE to the community.
-
-NetBeans instructions 
+====================================
+<b>NetBeans instructions</b>
 
 
 1.Create new workspace, preferably named: TXE 1.6.5 Forked
