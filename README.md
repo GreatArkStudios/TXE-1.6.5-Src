@@ -53,7 +53,7 @@ into the project folder, from either finder or Windows explorer.
 ====================================
 
 
-<b><a href="https://netbeans.org">NetBeans<a> instructions</b>
+<b><a href="https://netbeans.org">NetBeans</a> instructions</b>
 
 
 1.Create new workspace, preferably named: TXE 1.6.5 Forked
